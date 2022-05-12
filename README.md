@@ -1,1 +1,4 @@
-# COMPRO-Project-Connect4
+## Connect 4 Game
+Connect 4 คือ ....
+## ความน่าสนใจของ Project
+สามารถเล่นแข่งขันกับเพื่อนเพื่อความสนุกสนาน
