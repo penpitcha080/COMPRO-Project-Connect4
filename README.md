@@ -17,7 +17,7 @@ Connect 4 เป็นเกมกระดานเชื่อมต่อ ผ
 ## สาธิตการใช้งานโปรแกรม
 https://youtu.be/mAkdKPb0v9Y
 ## โปสเตอร์งาน
-![image](https://user-images.githubusercontent.com/88427063/168066038-a6ac1619-7dd8-45b4-9c17-b72e1b8af82d.png)
+![image](https://github.com/penpitcha080/COMPRO-Project-Connect4/blob/main/POSTER%20CONNECT%204.png?raw=true)
 ## สมาชิก
 64070031 นายณัฐพล มิ่งแก้ว                     
 64070055 นายนวพันธ์ น้อยจินดา              
